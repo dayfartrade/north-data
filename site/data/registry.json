@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "trials": [
+    {
+      "id": "trial-001",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "shipped",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-002",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "shipped",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-003",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "shipped",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-004",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-005",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-006",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-007",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-008",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-009",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-010",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-011",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-012",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-013",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-014",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-015",
+      "registered_utc": "2026-07-07T20:00:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-016",
+      "registered_utc": "2026-07-07T19:12:29.028746Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-017",
+      "registered_utc": "2026-07-07T21:50:16.034095Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": 0.4205047502775455,
+      "n_observations": 50
+    },
+    {
+      "id": "trial-018",
+      "registered_utc": "2026-07-13T10:15:00Z",
+      "layer": "intraday",
+      "verdict": "testing",
+      "sr_per_period": null,
+      "n_observations": 24
+    },
+    {
+      "id": "trial-019",
+      "registered_utc": "2026-07-13T10:15:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": 24
+    },
+    {
+      "id": "trial-020",
+      "registered_utc": "2026-07-13T10:15:00Z",
+      "layer": "intraday",
+      "verdict": "testing",
+      "sr_per_period": null,
+      "n_observations": 24
+    },
+    {
+      "id": "trial-021",
+      "registered_utc": "2026-07-13T10:15:00Z",
+      "layer": "intraday",
+      "verdict": "testing",
+      "sr_per_period": null,
+      "n_observations": 24
+    },
+    {
+      "id": "trial-022",
+      "registered_utc": "2026-07-13T11:00:00Z",
+      "layer": "operations",
+      "verdict": "testing",
+      "sr_per_period": null,
+      "n_observations": 10
+    },
+    {
+      "id": "trial-023",
+      "registered_utc": "2026-07-13T11:05:00Z",
+      "layer": "operations",
+      "verdict": "testing",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-024",
+      "registered_utc": "2026-07-13T11:00:00Z",
+      "layer": "operations",
+      "verdict": "shipped",
+      "sr_per_period": null,
+      "n_observations": 14
+    },
+    {
+      "id": "trial-025",
+      "registered_utc": "2026-07-13T15:00:00Z",
+      "layer": "intraday",
+      "verdict": "shipped",
+      "sr_per_period": null,
+      "n_observations": 25
+    },
+    {
+      "id": "trial-026",
+      "registered_utc": "2026-07-13T15:00:00Z",
+      "layer": "operations",
+      "verdict": "testing",
+      "sr_per_period": null,
+      "n_observations": 10
+    },
+    {
+      "id": "trial-027",
+      "registered_utc": "2026-07-18T07:15:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": 329
+    },
+    {
+      "id": "trial-028",
+      "registered_utc": "2026-07-18T08:30:00Z",
+      "layer": "operations",
+      "verdict": "deprecated",
+      "sr_per_period": null,
+      "n_observations": 16
+    },
+    {
+      "id": "trial-029",
+      "registered_utc": "2026-07-18T09:00:00Z",
+      "layer": "operations",
+      "verdict": "deprecated",
+      "sr_per_period": null,
+      "n_observations": 0
+    },
+    {
+      "id": "trial-030",
+      "registered_utc": "2026-07-20T17:30:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": 91
+    },
+    {
+      "id": "trial-031",
+      "registered_utc": "2026-07-20T14:45:00Z",
+      "layer": "intraday",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": 1018
+    },
+    {
+      "id": "trial-032",
+      "registered_utc": "2026-07-22T09:00:00Z",
+      "layer": "operations",
+      "verdict": "deprecated",
+      "sr_per_period": null,
+      "n_observations": 0
+    },
+    {
+      "id": "trial-033",
+      "registered_utc": "2026-07-22T11:00:00Z",
+      "layer": "weekly",
+      "verdict": "testing",
+      "sr_per_period": 0.1064,
+      "n_observations": 363
+    },
+    {
+      "id": "trial-034",
+      "registered_utc": "2026-07-22T13:00:00Z",
+      "layer": "weekly",
+      "verdict": "testing",
+      "sr_per_period": 0.1442,
+      "n_observations": 270
+    },
+    {
+      "id": "trial-035",
+      "registered_utc": "2026-07-22T14:30:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.138,
+      "n_observations": 252
+    },
+    {
+      "id": "trial-036",
+      "registered_utc": "2026-07-24T06:00:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": -0.0708,
+      "n_observations": 89
+    },
+    {
+      "id": "trial-037",
+      "registered_utc": "2026-07-24T06:20:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": -0.0169,
+      "n_observations": 96
+    },
+    {
+      "id": "trial-038",
+      "registered_utc": "2026-07-24T09:40:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.0628,
+      "n_observations": 80
+    },
+    {
+      "id": "trial-039",
+      "registered_utc": "2026-07-24T10:20:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": -0.0132,
+      "n_observations": 169
+    },
+    {
+      "id": "trial-040",
+      "registered_utc": "2026-07-24T11:15:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": -0.0419,
+      "n_observations": 379
+    },
+    {
+      "id": "trial-041",
+      "registered_utc": "2026-07-24T11:45:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.0111,
+      "n_observations": 175
+    },
+    {
+      "id": "trial-042",
+      "registered_utc": "2026-07-24T13:00:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.0114,
+      "n_observations": 379
+    },
+    {
+      "id": "trial-043",
+      "registered_utc": "2026-07-24T13:20:00Z",
+      "layer": "weekly",
+      "verdict": "testing",
+      "sr_per_period": 0.1403,
+      "n_observations": 168
+    },
+    {
+      "id": "trial-044",
+      "registered_utc": "2026-07-29T05:55:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.006,
+      "n_observations": 29
+    },
+    {
+      "id": "trial-045",
+      "registered_utc": "2026-07-31T15:00:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-046",
+      "registered_utc": "2026-07-31T15:00:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    },
+    {
+      "id": "trial-047",
+      "registered_utc": "2026-08-03T05:55:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": -0.044,
+      "n_observations": 192
+    },
+    {
+      "id": "trial-048",
+      "registered_utc": "2026-08-03T06:15:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.077,
+      "n_observations": 255
+    },
+    {
+      "id": "trial-049",
+      "registered_utc": "2026-08-03T06:35:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.229,
+      "n_observations": 54
+    },
+    {
+      "id": "trial-050",
+      "registered_utc": "2026-08-03T07:15:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.113,
+      "n_observations": 131
+    },
+    {
+      "id": "trial-051",
+      "registered_utc": "2026-08-17T05:45:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.181,
+      "n_observations": 65
+    },
+    {
+      "id": "trial-052",
+      "registered_utc": "2026-07-31T00:00:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.109,
+      "n_observations": 363
+    },
+    {
+      "id": "trial-053",
+      "registered_utc": "2026-08-31T18:00:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": 0.11593234101107289,
+      "n_observations": 213
+    },
+    {
+      "id": "trial-054",
+      "registered_utc": "2026-10-12T20:00:00Z",
+      "layer": "weekly",
+      "verdict": "rejected",
+      "sr_per_period": null,
+      "n_observations": null
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "product_name": "FAR Weekly Gold Read",
+  "status": "BETA",
+  "operator": "FAR",
+  "since_utc": "2026-07-22T12:06:48.413223+00:00",
+  "resolved_calls": 2,
+  "wins": 0,
+  "losses": 2,
+  "win_rate_pct": 0.0,
+  "cumulative_return_pct": -4.03,
+  "history": [
+    {
+      "type": "call",
+      "signal_date_utc": "2026-07-20T00:00:00+00:00",
+      "week_of": "2026-07-27",
+      "week_end": "2026-07-31",
+      "direction": "SHORT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -4.137,
+        "M60_pct": -14.44,
+        "MA10_above_MA40": false,
+        "RY_chg_20d_bps": 7.0
+      },
+      "current_price": 4014.24,
+      "atr_20d": 98.52,
+      "entry_approx": 4014.24,
+      "stop_price": 4211.29,
+      "exit_type": "Friday close (time exit) or stop hit",
+      "expected_atr_move": 98.52,
+      "published_utc": "2026-07-22T12:06:48.413223+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "telegram_sent": true,
+      "outcome": {
+        "result": "resolved",
+        "exit_price": 4043.24,
+        "exit_reason": "friday_close",
+        "net_return_pct": -0.722,
+        "resolved_utc": "2026-08-03T12:33:08.526192+00:00"
+      },
+      "resolve_sent": true
+    },
+    {
+      "type": "not_published",
+      "week_of": "2026-08-03",
+      "week_end": "2026-08-07",
+      "direction": null,
+      "reason": "Not published. The first automated publish failed on a data-format bug and posted a broken card instead of a call."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-08-07T00:00:00+00:00",
+      "week_of": "2026-08-10",
+      "week_end": "2026-08-14",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": 5.335,
+        "M60_pct": -4.373,
+        "MA10_above_MA40": true,
+        "RY_chg_20d_bps": 9.0
+      },
+      "current_price": 4340.4,
+      "atr_20d": 92.62,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-08-09T23:05:50.143487+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 2-2. Bullish: 4-week momentum up, 10-day average above 40-day. Bearish: 12-week momentum down, real yields rising."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-08-14T00:00:00+00:00",
+      "week_of": "2026-08-17",
+      "week_end": "2026-08-21",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": 8.974,
+        "M60_pct": -2.976,
+        "MA10_above_MA40": true,
+        "RY_chg_20d_bps": 10.0
+      },
+      "current_price": 4374.2,
+      "atr_20d": 90.78,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-08-16T22:48:50.128515+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 2-2. Bullish: 4-week momentum up, 10-day average above 40-day. Bearish: 12-week momentum down, real yields rising."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-08-21T00:00:00+00:00",
+      "week_of": "2026-08-24",
+      "week_end": "2026-08-28",
+      "direction": "LONG",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": 13.656,
+        "M60_pct": 1.423,
+        "MA10_above_MA40": true,
+        "RY_chg_20d_bps": -2.0
+      },
+      "current_price": 4602.06,
+      "atr_20d": 100.53,
+      "entry_approx": 4602.06,
+      "stop_price": 4401.0,
+      "exit_type": "Friday close (time exit) or stop hit",
+      "expected_atr_move": 100.53,
+      "published_utc": "2026-08-23T22:51:46.477376+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "telegram_sent": true,
+      "outcome": {
+        "result": "resolved",
+        "exit_price": 4450.06,
+        "exit_reason": "friday_close",
+        "net_return_pct": -3.303,
+        "resolved_utc": "2026-08-30T22:05:24.640742+00:00"
+      },
+      "resolve_sent": true
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-08-28T00:00:00+00:00",
+      "week_of": "2026-08-31",
+      "week_end": "2026-09-04",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": 10.062,
+        "M60_pct": 2.851,
+        "MA10_above_MA40": true,
+        "RY_chg_20d_bps": 0.0
+      },
+      "current_price": 4450.06,
+      "atr_20d": 105.73,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-08-30T22:05:25.305507+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "data_unavailable",
+      "flat_reason": "Real-yield data unavailable. The real-yield feed was frozen, so no directional call was possible."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-09-04T00:00:00+00:00",
+      "week_of": "2026-09-07",
+      "week_end": "2026-09-11",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": 2.075,
+        "M60_pct": 5.043,
+        "MA10_above_MA40": true,
+        "RY_chg_20d_bps": 0.0
+      },
+      "current_price": 4430.45,
+      "atr_20d": 106.98,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-09-06T22:08:53.063710+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 3-1. Bullish: 4-week momentum up, 12-week momentum up, 10-day average above 40-day. Bearish: real yields rising. Real-yield reading from repaired data: the feed was frozen at publish time, and the call is the same FLAT either way."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-09-11T00:00:00+00:00",
+      "week_of": "2026-09-14",
+      "week_end": "2026-09-18",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -0.61,
+        "M60_pct": 4.65,
+        "MA10_above_MA40": true,
+        "RY_chg_20d_bps": 0.0
+      },
+      "current_price": 4347.51,
+      "atr_20d": 108.9,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-09-13T23:53:36.866236+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 2-2. Bullish: 12-week momentum up, 10-day average above 40-day. Bearish: 4-week momentum down, real yields rising. Real-yield reading from repaired data: the feed was frozen at publish time, and the call is the same FLAT either way."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-09-18T00:00:00+00:00",
+      "week_of": "2026-09-21",
+      "week_end": "2026-09-25",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -4.899,
+        "M60_pct": 7.062,
+        "MA10_above_MA40": false,
+        "RY_chg_20d_bps": 0.0
+      },
+      "current_price": 4376.6,
+      "atr_20d": 103.02,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-09-20T23:51:07.349480+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 3-1. Bearish: 4-week momentum down, 10-day average below 40-day, real yields rising. Bullish: 12-week momentum up. Real-yield reading from repaired data: the feed was frozen at publish time, and the call is the same FLAT either way."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-09-25T00:00:00+00:00",
+      "week_of": "2026-09-28",
+      "week_end": "2026-10-02",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -3.759,
+        "M60_pct": 2.576,
+        "MA10_above_MA40": false,
+        "RY_chg_20d_bps": 0.0
+      },
+      "current_price": 4282.81,
+      "atr_20d": 94.41,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-09-28T00:17:54.286273+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 3-1. Bearish: 4-week momentum down, 10-day average below 40-day, real yields rising. Bullish: 12-week momentum up. Real-yield reading from repaired data: the feed was frozen at publish time, and the call is the same FLAT either way."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-10-02T00:00:00+00:00",
+      "week_of": "2026-10-05",
+      "week_end": "2026-10-09",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -6.65,
+        "M60_pct": 0.37,
+        "MA10_above_MA40": false,
+        "RY_chg_20d_bps": 0.0
+      },
+      "current_price": 4135.81,
+      "atr_20d": 88.89,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-10-05T00:26:31.355363+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 3-1. Bearish: 4-week momentum down, 10-day average below 40-day, real yields rising. Bullish: 12-week momentum up. Real-yield reading from repaired data: the feed was frozen at publish time, and the call is the same FLAT either way."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-10-09T00:00:00+00:00",
+      "week_of": "2026-10-12",
+      "week_end": "2026-10-16",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -3.62,
+        "M60_pct": 4.389,
+        "MA10_above_MA40": false,
+        "RY_chg_20d_bps": 0.0
+      },
+      "current_price": 4190.15,
+      "atr_20d": 82.07,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-10-12T00:58:50.323604+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA \u2014 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 3-1. Bearish: 4-week momentum down, 10-day average below 40-day, real yields rising. Bullish: 12-week momentum up. Real-yield reading from repaired data: the feed was frozen at publish time, and the call is the same FLAT either way."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-10-16T00:00:00+00:00",
+      "week_of": "2026-10-19",
+      "week_end": "2026-10-23",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -4.828,
+        "M60_pct": 2.869,
+        "MA10_above_MA40": false,
+        "RY_chg_20d_bps": 0.0
+      },
+      "price_trend_tape": {
+        "pct_1y": 0.0506,
+        "pct_6mo": -0.1128,
+        "pct_3mo": 0.0208,
+        "unavailable": []
+      },
+      "current_price": 4165.27,
+      "atr_20d": 75.12,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-10-18T23:55:19.223948+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA - 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 3-1. Bearish: 4-week momentum down, 10-day average below 40-day, real yields rising. Bullish: 12-week momentum up. Real-yield reading from repaired data: the feed was frozen at publish time, and the call is the same FLAT either way."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-10-23T00:00:00+00:00",
+      "week_of": "2026-10-26",
+      "week_end": "2026-10-30",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -6.715,
+        "M60_pct": -1.188,
+        "MA10_above_MA40": false,
+        "RY_chg_20d_bps": 0.0
+      },
+      "price_trend_tape": {
+        "pct_1y": 0.0155,
+        "pct_6mo": -0.1364,
+        "pct_3mo": -0.0073,
+        "unavailable": []
+      },
+      "current_price": 3995.21,
+      "atr_20d": 72.5,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-10-25T23:49:04.846384+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA - 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 3-1. Bearish: 4-week momentum down, 12-week momentum down, 10-day average below 40-day. Bullish: real yields falling. Real-yield reading from repaired data: the feed was frozen at publish time, and the call is the same FLAT either way."
+    },
+    {
+      "type": "not_published",
+      "week_of": "2026-11-02",
+      "week_end": "2026-11-06",
+      "direction": null,
+      "reason": "Not published. The weekly publish job failed on a broken price-data library update (fixed 2026-11-07)."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-11-06T00:00:00+00:00",
+      "week_of": "2026-11-09",
+      "week_end": "2026-11-13",
+      "direction": "FLAT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -2.878,
+        "M60_pct": -6.965,
+        "MA10_above_MA40": false,
+        "RY_chg_20d_bps": -31.0
+      },
+      "price_trend_tape": {
+        "pct_1y": -0.0017,
+        "pct_6mo": -0.1252,
+        "pct_3mo": -0.069,
+        "unavailable": []
+      },
+      "current_price": 4069.55,
+      "atr_20d": 76.26,
+      "message": "No signal this week. FLAT (no position).",
+      "published_utc": "2026-11-09T01:25:34.742970+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA - 3 of 6 pre-reg gates borderline failed. Live-tracking is the final validation. Position size accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true,
+      "outcome": {
+        "result": "FLAT_no_position",
+        "net_return_pct": 0.0
+      },
+      "flat_reason_code": "signals_split",
+      "flat_reason": "Signals split 3-1. Bearish: 4-week momentum down, 12-week momentum down, 10-day average below 40-day. Bullish: real yields falling."
+    },
+    {
+      "type": "call",
+      "signal_date_utc": "2026-11-13T00:00:00+00:00",
+      "week_of": "2026-11-16",
+      "week_end": "2026-11-20",
+      "direction": "SHORT",
+      "instrument": "GC (Gold Futures) or GLD ETF",
+      "signal_components": {
+        "M20_pct": -6.771,
+        "M60_pct": -15.619,
+        "MA10_above_MA40": false,
+        "RY_chg_20d_bps": 12.0
+      },
+      "price_trend_tape": {
+        "pct_1y": -0.0605,
+        "pct_6mo": -0.1438,
+        "pct_3mo": -0.1038,
+        "unavailable": []
+      },
+      "current_price": 3883.24,
+      "atr_20d": 85.4,
+      "entry_approx": 3883.24,
+      "stop_price": 4054.05,
+      "exit_type": "Friday close (time exit) or stop hit",
+      "expected_atr_move": 85.4,
+      "published_utc": "2026-11-16T01:34:34.745583+00:00",
+      "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
+      "confidence_disclaimer": "BETA - 1 of 6 pre-registration tests narrowly missed (training-period Sharpe 0.48 vs 0.50). Live tracking is the final check. Size positions accordingly.",
+      "performance_sent": true,
+      "telegram_sent": true
+    }
+  ]
+}

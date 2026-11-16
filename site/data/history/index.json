@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "weeks": [
+    {
+      "week_of": "2026-11-16",
+      "week_end": "2026-11-20",
+      "direction": "SHORT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-11-09",
+      "week_end": "2026-11-13",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-10-26",
+      "week_end": "2026-10-30",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-10-19",
+      "week_end": "2026-10-23",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-10-12",
+      "week_end": "2026-10-16",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-10-05",
+      "week_end": "2026-10-09",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-09-28",
+      "week_end": "2026-10-02",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-09-21",
+      "week_end": "2026-09-25",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-09-14",
+      "week_end": "2026-09-18",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-09-07",
+      "week_end": "2026-09-11",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-08-31",
+      "week_end": "2026-09-04",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-08-24",
+      "week_end": "2026-08-28",
+      "direction": "LONG",
+      "outcome": {
+        "net_return_pct": -3.303,
+        "exit_reason": "friday_close"
+      },
+      "has_detail": true
+    },
+    {
+      "week_of": "2026-08-17",
+      "week_end": "2026-08-21",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-08-10",
+      "week_end": "2026-08-14",
+      "direction": "FLAT",
+      "outcome": null,
+      "has_detail": false
+    },
+    {
+      "week_of": "2026-07-27",
+      "week_end": "2026-07-31",
+      "direction": "SHORT",
+      "outcome": {
+        "net_return_pct": -0.722,
+        "exit_reason": "friday_close"
+      },
+      "has_detail": true
+    }
+  ]
+}
