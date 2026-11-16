@@ -29,8 +29,10 @@
   "performance_sent": true,
   "telegram_sent": true,
   "primary_risk": {
-    "sentence": "Position live, insufficient data to assess risk.",
+    "sentence": "Stop 2.38x ATR away with 95h to close. Primary risk is a Friday-close reversal.",
     "severity": "low",
-    "trigger": null
-  }
+    "trigger": "Intraday break above $4,054.05 or Friday close above $3,883.24"
+  },
+  "live_pnl_pct": 0.845,
+  "live_updated_utc": "2026-11-16T21:35:59.826411+00:00"
 }

@@ -1,17 +1,17 @@
 [
   {
     "date": "2026-11-16",
-    "openPnlPct": null,
-    "distanceStopAtr": null,
+    "openPnlPct": 0.845,
+    "distanceStopAtr": 2.384,
     "gates": [
       {
         "name": "M20",
-        "value": -6.771,
+        "value": -6.816,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -15.619,
+        "value": -17.718,
         "ok": true
       },
       {
@@ -21,7 +21,7 @@
       },
       {
         "name": "RY",
-        "value": 12.0,
+        "value": 6.0,
         "ok": true
       }
     ],
@@ -30,7 +30,7 @@
       "timeUtc": "2026-11-16T13:30:00+00:00",
       "impact": "med"
     },
-    "commentary": "No live read available for this session. Gates 4/4. Watch RETAIL at 13:30 UTC."
+    "commentary": "On track, +0.84% in the money. Gates 4/4. Watch RETAIL at 13:30 UTC."
   },
   {
     "date": "2026-11-17",
@@ -39,12 +39,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -6.771,
+        "value": -6.816,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -15.619,
+        "value": -17.718,
         "ok": true
       },
       {
@@ -54,7 +54,7 @@
       },
       {
         "name": "RY",
-        "value": 12.0,
+        "value": 6.0,
         "ok": true
       }
     ],
@@ -68,12 +68,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -6.771,
+        "value": -6.816,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -15.619,
+        "value": -17.718,
         "ok": true
       },
       {
@@ -83,7 +83,7 @@
       },
       {
         "name": "RY",
-        "value": 12.0,
+        "value": 6.0,
         "ok": true
       }
     ],
@@ -97,12 +97,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -6.771,
+        "value": -6.816,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -15.619,
+        "value": -17.718,
         "ok": true
       },
       {
@@ -112,7 +112,7 @@
       },
       {
         "name": "RY",
-        "value": 12.0,
+        "value": 6.0,
         "ok": true
       }
     ],
@@ -130,12 +130,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -6.771,
+        "value": -6.816,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -15.619,
+        "value": -17.718,
         "ok": true
       },
       {
@@ -145,7 +145,7 @@
       },
       {
         "name": "RY",
-        "value": 12.0,
+        "value": 6.0,
         "ok": true
       }
     ],
