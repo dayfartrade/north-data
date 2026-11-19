@@ -54,7 +54,7 @@
       },
       {
         "name": "RY",
-        "value": 15.0,
+        "value": 12.0,
         "ok": true
       }
     ],
@@ -63,17 +63,17 @@
   },
   {
     "date": "2026-11-18",
-    "openPnlPct": 3.809,
-    "distanceStopAtr": 3.732,
+    "openPnlPct": 3.688,
+    "distanceStopAtr": 3.677,
     "gates": [
       {
         "name": "M20",
-        "value": -9.451,
+        "value": -9.337,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -19.205,
+        "value": -19.103,
         "ok": true
       },
       {
@@ -83,26 +83,26 @@
       },
       {
         "name": "RY",
-        "value": 16.0,
+        "value": 13.0,
         "ok": true
       }
     ],
     "event": null,
-    "commentary": "On track, +3.81% in the money. Gates 4/4."
+    "commentary": "On track, +3.69% in the money. Gates 4/4."
   },
   {
     "date": "2026-11-19",
-    "openPnlPct": null,
-    "distanceStopAtr": null,
+    "openPnlPct": 5.343,
+    "distanceStopAtr": 4.43,
     "gates": [
       {
         "name": "M20",
-        "value": -9.451,
+        "value": -8.641,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -19.205,
+        "value": -19.99,
         "ok": true
       },
       {
@@ -112,7 +112,7 @@
       },
       {
         "name": "RY",
-        "value": 16.0,
+        "value": 25.0,
         "ok": true
       }
     ],
@@ -121,7 +121,7 @@
       "timeUtc": "2026-11-19T13:30:00+00:00",
       "impact": "low"
     },
-    "commentary": "Upcoming session, position unchanged. Gates 4/4."
+    "commentary": "On track, +5.34% in the money. Gates 4/4."
   },
   {
     "date": "2026-11-20",
@@ -130,12 +130,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -9.451,
+        "value": -8.641,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -19.205,
+        "value": -19.99,
         "ok": true
       },
       {
@@ -145,7 +145,7 @@
       },
       {
         "name": "RY",
-        "value": 16.0,
+        "value": 25.0,
         "ok": true
       }
     ],
