@@ -2,11 +2,21 @@
   "schema_version": 1,
   "weeks": [
     {
-      "week_of": "2026-11-16",
-      "week_end": "2026-11-20",
+      "week_of": "2026-11-23",
+      "week_end": "2026-11-27",
       "direction": "SHORT",
       "outcome": null,
       "has_detail": false
+    },
+    {
+      "week_of": "2026-11-16",
+      "week_end": "2026-11-20",
+      "direction": "SHORT",
+      "outcome": {
+        "net_return_pct": 8.886,
+        "exit_reason": "friday_close"
+      },
+      "has_detail": true
     },
     {
       "week_of": "2026-11-09",

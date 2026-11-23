@@ -9,7 +9,7 @@
   "win_rate_pct": 55.9,
   "mean_return_pct": 0.23,
   "sharpe_ratio": 0.77,
-  "sharpe_alt_weekly_basis": 0.50,
+  "sharpe_alt_weekly_basis": 0.5,
   "sharpe_methodology_note": "Sharpe 0.77 computed on 363 directional-trade returns annualized by sqrt(52). Alternative Sharpe 0.50 (labeled sharpe_alt_weekly_basis) computed on the full 850-week return series with FLAT weeks treated as 0%, annualized by sqrt(52); this is the stricter convention. Both figures use zero risk-free rate. Directional-trade mean and standard deviation are per-trade percentage returns on nominal (entry price times 100 oz contract).",
   "mean_return_universe": "Per directional trade only. FLAT weeks are excluded from the numerator and denominator; if averaged across all 850 weeks in the sample (including 487 FLAT weeks), mean drops proportionally to about +0.10% per week.",
   "max_drawdown_pct": -5.6,
@@ -31,5 +31,5 @@
     "weeks": 12,
     "amount": -56043.0
   },
-  "small_sample_note": "Small samples deviate widely from long-run expectations. About 19.4% of 2-trade sequences from a 55.9% WR strategy come out 0W-2L."
+  "small_sample_note": "Small samples deviate widely from long-run expectations. About 32.6% of 3-trade sequences from a 55.9% WR strategy come out 1W-2L."
 }

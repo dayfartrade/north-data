@@ -1,38 +1,36 @@
 {
   "type": "call",
-  "signal_date_utc": "2026-11-13T00:00:00+00:00",
-  "week_of": "2026-11-16",
-  "week_end": "2026-11-20",
+  "signal_date_utc": "2026-11-20T00:00:00+00:00",
+  "week_of": "2026-11-23",
+  "week_end": "2026-11-27",
   "direction": "SHORT",
   "instrument": "GC (Gold Futures) or GLD ETF",
   "signal_components": {
-    "M20_pct": -6.771,
-    "M60_pct": -15.619,
+    "M20_pct": -11.44,
+    "M60_pct": -20.492,
     "MA10_above_MA40": false,
-    "RY_chg_20d_bps": 12.0
+    "RY_chg_20d_bps": 22.0
   },
   "price_trend_tape": {
-    "pct_1y": -0.0605,
-    "pct_6mo": -0.1438,
-    "pct_3mo": -0.1038,
+    "pct_1y": -0.1601,
+    "pct_6mo": -0.2128,
+    "pct_3mo": -0.2399,
     "unavailable": []
   },
-  "current_price": 3883.24,
-  "atr_20d": 85.4,
-  "entry_approx": 3883.24,
-  "stop_price": 4054.05,
+  "current_price": 3538.18,
+  "atr_20d": 97.19,
+  "entry_approx": 3538.18,
+  "stop_price": 3732.56,
   "exit_type": "Friday close (time exit) or stop hit",
-  "expected_atr_move": 85.4,
-  "published_utc": "2026-11-16T01:34:34.745583+00:00",
+  "expected_atr_move": 97.19,
+  "published_utc": "2026-11-23T02:14:32.163621+00:00",
   "pre_reg_ref": "2026-07-22_far_weekly_gold_read_prereg.md",
   "confidence_disclaimer": "BETA - 1 of 6 pre-registration tests narrowly missed (training-period Sharpe 0.48 vs 0.50). Live tracking is the final check. Size positions accordingly.",
   "performance_sent": true,
   "telegram_sent": true,
   "primary_risk": {
-    "sentence": "Stop 6.18x ATR away with 1h to close. Primary risk is a Friday-close reversal.",
+    "sentence": "Position live, insufficient data to assess risk.",
     "severity": "low",
-    "trigger": "Intraday break above $4,054.05 or Friday close above $3,883.24"
-  },
-  "live_pnl_pct": 9.188,
-  "live_updated_utc": "2026-11-20T19:34:24.969605+00:00"
+    "trigger": null
+  }
 }
