@@ -1,17 +1,17 @@
 [
   {
     "date": "2026-11-23",
-    "openPnlPct": null,
-    "distanceStopAtr": null,
+    "openPnlPct": -2.806,
+    "distanceStopAtr": 0.979,
     "gates": [
       {
         "name": "M20",
-        "value": -11.44,
+        "value": -9.184,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -20.492,
+        "value": -18.294,
         "ok": true
       },
       {
@@ -26,7 +26,7 @@
       }
     ],
     "event": null,
-    "commentary": "No live read available for this session. Gates 4/4."
+    "commentary": "Underwater -2.81%, stop 0.98x ATR away. Gates 4/4."
   },
   {
     "date": "2026-11-24",
@@ -35,12 +35,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -11.44,
+        "value": -9.184,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -20.492,
+        "value": -18.294,
         "ok": true
       },
       {
@@ -64,12 +64,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -11.44,
+        "value": -9.184,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -20.492,
+        "value": -18.294,
         "ok": true
       },
       {
@@ -93,12 +93,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -11.44,
+        "value": -9.184,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -20.492,
+        "value": -18.294,
         "ok": true
       },
       {
@@ -126,12 +126,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -11.44,
+        "value": -9.184,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -20.492,
+        "value": -18.294,
         "ok": true
       },
       {
