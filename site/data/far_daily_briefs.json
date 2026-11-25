@@ -21,7 +21,7 @@
       },
       {
         "name": "RY",
-        "value": 11.0,
+        "value": 13.0,
         "ok": true
       }
     ],
@@ -30,17 +30,17 @@
   },
   {
     "date": "2026-11-24",
-    "openPnlPct": -0.359,
-    "distanceStopAtr": 1.869,
+    "openPnlPct": -0.364,
+    "distanceStopAtr": 1.867,
     "gates": [
       {
         "name": "M20",
-        "value": -12.596,
+        "value": -12.591,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -17.886,
+        "value": -17.881,
         "ok": true
       },
       {
@@ -50,7 +50,7 @@
       },
       {
         "name": "RY",
-        "value": 13.0,
+        "value": 15.0,
         "ok": true
       }
     ],
@@ -59,17 +59,17 @@
   },
   {
     "date": "2026-11-25",
-    "openPnlPct": null,
-    "distanceStopAtr": null,
+    "openPnlPct": -1.034,
+    "distanceStopAtr": 1.623,
     "gates": [
       {
         "name": "M20",
-        "value": -12.596,
+        "value": -11.825,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -17.886,
+        "value": -18.486,
         "ok": true
       },
       {
@@ -79,12 +79,12 @@
       },
       {
         "name": "RY",
-        "value": 13.0,
+        "value": 12.0,
         "ok": true
       }
     ],
     "event": null,
-    "commentary": "Upcoming session, position unchanged. Gates 4/4."
+    "commentary": "Underwater -1.03%, stop 1.62x ATR away. Gates 4/4."
   },
   {
     "date": "2026-11-26",
@@ -93,12 +93,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -12.596,
+        "value": -11.825,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -17.886,
+        "value": -18.486,
         "ok": true
       },
       {
@@ -108,7 +108,7 @@
       },
       {
         "name": "RY",
-        "value": 13.0,
+        "value": 12.0,
         "ok": true
       }
     ],
@@ -126,12 +126,12 @@
     "gates": [
       {
         "name": "M20",
-        "value": -12.596,
+        "value": -11.825,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -17.886,
+        "value": -18.486,
         "ok": true
       },
       {
@@ -141,7 +141,7 @@
       },
       {
         "name": "RY",
-        "value": 13.0,
+        "value": 12.0,
         "ok": true
       }
     ],

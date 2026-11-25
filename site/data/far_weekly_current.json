@@ -29,10 +29,10 @@
   "performance_sent": true,
   "telegram_sent": true,
   "primary_risk": {
-    "sentence": "Stop 1.87x ATR away with 71h to close. Primary risk is a Friday-close reversal.",
-    "severity": "low",
+    "sentence": "Position underwater -1.03%. Stop 1.62x ATR away, 48h to time exit.",
+    "severity": "med",
     "trigger": "Intraday break above $3,732.56 or Friday close above $3,538.18"
   },
-  "live_pnl_pct": -0.359,
-  "live_updated_utc": "2026-11-24T21:53:16.402591+00:00"
+  "live_pnl_pct": -1.034,
+  "live_updated_utc": "2026-11-25T21:00:06.686471+00:00"
 }
