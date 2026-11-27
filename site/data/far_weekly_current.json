@@ -29,10 +29,10 @@
   "performance_sent": true,
   "telegram_sent": true,
   "primary_risk": {
-    "sentence": "Position underwater -0.79%. Stop 1.71x ATR away, 24h to time exit.",
+    "sentence": "Position underwater -3.27%. Stop 0.81x ATR away, 0h to time exit.",
     "severity": "med",
     "trigger": "Intraday break above $3,732.56 or Friday close above $3,538.18"
   },
-  "live_pnl_pct": -0.79,
-  "live_updated_utc": "2026-11-26T20:53:33.596687+00:00"
+  "live_pnl_pct": -3.272,
+  "live_updated_utc": "2026-11-27T20:38:19.065559+00:00"
 }

@@ -88,17 +88,17 @@
   },
   {
     "date": "2026-11-26",
-    "openPnlPct": -0.79,
-    "distanceStopAtr": 1.712,
+    "openPnlPct": -0.837,
+    "distanceStopAtr": 1.695,
     "gates": [
       {
         "name": "M20",
-        "value": -11.017,
+        "value": -10.976,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -20.395,
+        "value": -20.358,
         "ok": true
       },
       {
@@ -117,21 +117,21 @@
       "timeUtc": "2026-11-26T13:30:00+00:00",
       "impact": "low"
     },
-    "commentary": "Underwater -0.79%, stop 1.71x ATR away. Gates 4/4."
+    "commentary": "Underwater -0.84%, stop 1.70x ATR away. Gates 4/4."
   },
   {
     "date": "2026-11-27",
-    "openPnlPct": null,
-    "distanceStopAtr": null,
+    "openPnlPct": -3.272,
+    "distanceStopAtr": 0.809,
     "gates": [
       {
         "name": "M20",
-        "value": -11.017,
+        "value": -5.695,
         "ok": true
       },
       {
         "name": "M60",
-        "value": -20.395,
+        "value": -17.527,
         "ok": true
       },
       {
@@ -141,11 +141,11 @@
       },
       {
         "name": "RY",
-        "value": 16.0,
+        "value": 19.0,
         "ok": true
       }
     ],
     "event": null,
-    "commentary": "Upcoming session, position unchanged. Gates 4/4."
+    "commentary": "Underwater -3.27%, stop 0.81x ATR away. Gates 4/4."
   }
 ]
